@@ -45,14 +45,7 @@ Full wave Rectifier with and without filter:
 ![alt text](<WhatsApp Image 2026-03-15 at 5.41.30 PM-1.jpeg>)
 ![alt text](<WhatsApp Image 2026-03-15 at 5.43.10 PM.jpeg>)
 
-Half wave rectifier without filter:
-![alt text](<Screenshot 2026-03-13 143341.png>) ![alt text](<Screenshot 2026-03-13 143358.png>)
-Bridge rectifier without filter:
-![alt text](<Screenshot 2026-03-13 144617.png>) ![alt text](<Screenshot 2026-03-13 144632.png>)
-Half wave rectifier with filter:
-![alt text](<Screenshot 2026-03-13 143820.png>) ![alt text](<Screenshot 2026-03-13 143834.png>)
-Bridge rectifier with filter:
-![alt text](<Screenshot 2026-03-15 221902.png>) ![alt text](<Screenshot 2026-03-15 221847.png>)
+
 
 
 
