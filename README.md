@@ -35,7 +35,7 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 Half Wave Rectifier without Filter:
-<img src="Screenshot_2026-03-16 180209.png">
+<img src="Screenshot 2026-03-16 180209.png">
 
 Half Wave Rectifier With Filter:
 <img src="Screenshot 2026-03-16 180259.png">
@@ -49,8 +49,6 @@ Bridge Rectifier With Filter:
 Half wave rectifier with and without filter:
 ![alt text](<WhatsApp Image 2026-03-15 at 5.40.51 PM.jpeg>)
 <img src="WhatsApp Image 2026-03-16 at 6.28.51 PM.jpeg">
-![alt text](<Screenshot 2026-03-13 143341.png>) ![alt text](<Screenshot 2026-03-13 143358.png>)
-![alt text](<Screenshot 2026-03-13 144617.png>) ![alt text](<Screenshot 2026-03-13 144632.png>)
 
 Full wave Rectifier with and without filter:
 
