@@ -38,7 +38,7 @@ Half Wave Rectifier without Filter:
 ![alt text](<Screenshot_2026-03-16_180209.png>)
 
 Half Wave Rectifier With Filter:
-<img src="Screenshot 2026-03-16 180259.png">
+<img src="Screenshot 2026-03-16 180259.PNG">
 
 Bridge Rectifier Without Filter:
 <img src="Screenshot 2026-03-16 180343.png">
