@@ -48,7 +48,7 @@ Bridge Rectifier With Filter:
 
 Half wave rectifier with and without filter:
 ![alt text](<WhatsApp Image 2026-03-15 at 5.40.51 PM.jpeg>)
-![alt text](<WhatsApp Image 2026-03-15 at 5.41.10 PM.jpeg>)
+<img src="WhatsApp Image 2026-03-16 at 6.28.51 PM.jpeg">
 ![alt text](<Screenshot 2026-03-13 143341.png>) ![alt text](<Screenshot 2026-03-13 143358.png>)
 ![alt text](<Screenshot 2026-03-13 144617.png>) ![alt text](<Screenshot 2026-03-13 144632.png>)
 
