@@ -36,6 +36,8 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+<img src="a.jpeg">
+
 Half wave rectifier with and without filter:
 ![alt text](<WhatsApp Image 2026-03-15 at 5.40.51 PM.jpeg>)
 ![alt text](<WhatsApp Image 2026-03-15 at 5.41.10 PM.jpeg>)
